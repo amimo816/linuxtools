@@ -1,0 +1,11 @@
+[user]
+	name = Amir Mottaghi
+	email = amirmott@gmail.com
+[core]
+	editor = vim
+[alias]
+	st = status
+	ci = commit
+	br = branch
+	co = checkout
+
